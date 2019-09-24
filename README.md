@@ -1,5 +1,5 @@
 # JuCheap.Ocelot
-http://www.jucheap.com
+net core Ocelot demo . http://www.jucheap.com
 
 # usage,please visit my blog
 
